@@ -2,5 +2,5 @@
 FROM almalinux
 LABEL COURSE="DevSecops"\
       TRAINER="Siva"\
-      DURATION="150 HRS"
-           
+      DURATION="150 HRS"\
+      AUTHOR="SivaReddy"     
