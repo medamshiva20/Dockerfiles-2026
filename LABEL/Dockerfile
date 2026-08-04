@@ -4,3 +4,5 @@ LABEL COURSE="DevSecops"\
       TRAINER="Siva"\
       DURATION="150 HRS"\
       AUTHOR="SivaReddy"     
+
+#docker images --filter "label=COURSE=DevSecOps" -- based on this command we can find out the image 
